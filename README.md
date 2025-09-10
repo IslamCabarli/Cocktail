@@ -8,7 +8,7 @@ Saytın əsas xüsusiyyətləri:
 - 🔄 **Random refresh** – hər dəfə səhifəni yenilədikdə fərqli kokteyllər göstərilir.  
 
 ## Texnologiyalar
-- HTML, CSS, JavaScript  
+- HTML, Material.ui, JavaScript , React.js
 - API inteqrasiyası  
 
 ---
