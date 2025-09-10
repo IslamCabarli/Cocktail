@@ -12,4 +12,4 @@ Saytın əsas xüsusiyyətləri:
 - API inteqrasiyası  
 
 ---
-Layihə sadə frontend bacarıqlarını təkmilləşdirmək və real data ilə işləmək üçün hazırlanmışdır.
+Layihə sadə frontend bacarıqlarını ve React biliklerini təkmilləşdirmək və real data ilə işləmək üçün hazırlanmışdır.
